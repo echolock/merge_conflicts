@@ -1,1 +1,1 @@
-var new_variable_test = "6";
+var new_variable_test = "Sasquatch addition with 6";
